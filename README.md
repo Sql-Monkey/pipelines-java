@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/microsofttutorials/TestingPipeline/_apis/build/status/Sql-Monkey.pipelines-java?branchName=master)](https://dev.azure.com/microsofttutorials/TestingPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
